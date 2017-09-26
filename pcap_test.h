@@ -7,4 +7,4 @@
 #include <netinet/tcp.h>
 #include <arpa/inet.h>
 
-#define ETHER_ADDR_LEN 6
+
